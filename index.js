@@ -32,5 +32,5 @@ function cohortRocks() { //eslint-disable-line
     console.log(`My shell is "${process.env.SHELL}"`)
     console.log(`In my environment FOO is "${process.env.FOO}"`)
     console.log(`My super secret comes from "${process.env.SUPER_SECRET}"`)
-  }
+  }  
   cohortRocksEnv()
